@@ -6,3 +6,4 @@
 | 02 | [Random Variables and Probability](02_exercise.ipynb) |
 | 03 | [Distributions and Moments](03_exercise.ipynb) |
 | 04 | [Generative Models and Monte Carlo](04_exercise.ipynb) |
+| 05 | [Parameter Estimation and Maximum Likelihood](05_exercise.ipynb) |
