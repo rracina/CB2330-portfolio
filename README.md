@@ -8,4 +8,5 @@
 | 04 | [Generative Models and Monte Carlo](04_exercise.ipynb) |
 | 05 | [Parameter Estimation and Maximum Likelihood](05_exercise.ipynb) |
 | 06 | [Optimisation and Gradient Descent](06_exercise.ipynb) |
+| 07 | [Measurement Error and Fitting Error](07_exercise.ipynb) |
 
