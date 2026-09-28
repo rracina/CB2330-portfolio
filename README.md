@@ -10,3 +10,5 @@
 | 06 | [Optimisation and Gradient Descent](06_exercise.ipynb) |
 | 07 | [Measurement Error and Fitting Error](07_exercise.ipynb) |
 | 08 | [Parameter Uncertainty and Model Comparison](08_exercise.ipynb) |
+| 09 | [End-to-End Modelling](09_exercise.ipynb) |
+
