@@ -12,3 +12,8 @@
 | 08 | [Parameter Uncertainty and Model Comparison](08_exercise.ipynb) |
 | 09 | [End-to-End Modelling](09_exercise.ipynb) |
 | 10 | [Simulation-based inference](10_exercise.ipynb) |
+
+|   | REF1 sheets |
+| --- | --- |
+| 01 | [Reference sheet 01](01_Sheet_R.Racina.jpeg) |
+| 02 | [Reference sheet 02](02_Sheet_R.Racina.jpeg) |
